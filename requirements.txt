@@ -1,0 +1,6 @@
+# CodeAnalyzer dependencies
+# No external dependencies for core functionality
+
+# Development
+pytest>=7.0.0
+
